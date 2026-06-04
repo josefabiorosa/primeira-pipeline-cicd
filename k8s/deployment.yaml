@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: web
-        image: josefabiorosa/primeira-pipeline-cicd
+        image: josefabiorosa/aula-primeira-pipeline
         ports:
         - containerPort: 5000
 --- 
